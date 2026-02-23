@@ -1,7 +1,8 @@
 ![logo](https://github.com/Prabhnoor007-gr/Prabhnoor007-gr/blob/main/1771625418173.jpg)
 <h1 align="center">Hi 👋, I'm Prabhnoor Kaur</h1>
 <h3 align="center">Master’s in Data Science | Data Analyst | Operations Analytics</h3>
-- 🌱 I’m currently learning Azure Fundamentals (AZ-900)
+
+- 🌱 I’m currently learning **Azure Fundamentals (AZ-900)**
 
 - 📫 How to reach me **prabhnoorgrover1@gmail.com**
 
