@@ -1,5 +1,5 @@
 ![logo](https://github.com/Prabhnoor007-gr/Prabhnoor007-gr/blob/main/bannner.png)
-<h1 align="center">Hi 👋, I'm Prabhnoor Kaur</h1>
+<h1 align="center">Hi 👋, I'm Prabhnoor</h1>
 <h3 align="center">Master’s in Data Science | Data Analyst | Operations Analytics</h3>
 
 - 🌱 I’m currently learning **Azure Fundamentals (AZ-900)**
