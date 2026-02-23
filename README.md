@@ -1,4 +1,4 @@
-![logo](https://github.com/Prabhnoor007-gr/Prabhnoor007-gr/blob/main/1771625418173.jpg)
+![logo](https://github.com/Prabhnoor007-gr/Prabhnoor007-gr/blob/main/bannner.png)
 <h1 align="center">Hi 👋, I'm Prabhnoor Kaur</h1>
 <h3 align="center">Master’s in Data Science | Data Analyst | Operations Analytics</h3>
 
